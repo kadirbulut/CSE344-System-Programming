@@ -41,3 +41,4 @@ int main(int argc, char const *argv[]){
 	fclose(fptr); /*close input file*/
 	return 0;
 }	
+
